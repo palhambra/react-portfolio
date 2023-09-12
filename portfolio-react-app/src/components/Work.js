@@ -17,10 +17,10 @@ const Work = () => {
               </span>
               <div>
                 <a href='/'>
-                  <button></button>
+                  <button>Code</button>
                 </a>
                 <a href='/'>
-                  <button></button>
+                  <button>Demo</button>
                 </a>
               </div>
             </div>
