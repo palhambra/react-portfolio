@@ -9,7 +9,7 @@ const Work = () => {
       <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
         <div className='pb-8'>
           <p className='text-4xl font-bold inline border-b-4 border-[#5F7ABD]'>Work</p>
-          <p className='py-6'>Check out some of my recent work</p>
+          <p className='py-6'>Check out some of my recent work.</p>
         </div>
 
         <div
@@ -26,10 +26,10 @@ const Work = () => {
 
               </span>
               <div className='pt-8 text-center'>
-                <a href='/'>
+                <a href='https://github.com/palhambra/Sluffin-Or-Buffin' target='_blank' rel='noopener noreferrer'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                 </a>
-                <a href='/'>
+                <a href='https://salty-spire-29612.herokuapp.com/' target='_blank' rel='noopener noreferrer'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                 </a>
               </div>
@@ -47,10 +47,10 @@ const Work = () => {
 
               </span>
               <div className='pt-8 text-center'>
-                <a href='/'>
+                <a href='https://github.com/palhambra/Moving-Pictures' target='blank' rel='noopener noreferrer'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                 </a>
-                <a href='/'>
+                <a href='https://limitless-scrubland-26764.herokuapp.com/' target='_blank' rel='noopener noreferrer'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                 </a>
               </div>
@@ -68,10 +68,10 @@ const Work = () => {
 
               </span>
               <div className='pt-8 text-center'>
-                <a href='/'>
+                <a href='https://github.com/palhambra/impress-your-friends' target='_blank' rel='noopener noreferrer'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                 </a>
-                <a href='/'>
+                <a href='https://grindboiwes.github.io/impress-your-friends/' target='_blank' rel='noopener noreferrer'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                 </a>
               </div>
