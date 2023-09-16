@@ -11,7 +11,7 @@ const Home = () => {
         <p className='text-[#A2B2EE]'>Hi, my name is</p>
         <h1 className='text-4xl sm:text-7xl font-bold text-[#ccd6f6]'>Paolo Alhambra</h1>
         <h2 className='text-4xl sm:text-7xl font-bold text-[#8892b0]'>I'm a Full Stack Developer.</h2>
-        <p className='text-[#8892b0]'>I'm ready to be your next hire.</p>
+        {/* <p className='text-[#8892b0]'>I'm ready to be your next hire.</p> */}
 
         <div>
           <Link to="work" smooth={true} duration={500}>

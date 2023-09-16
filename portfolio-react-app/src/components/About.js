@@ -11,21 +11,20 @@ const About = () => {
           <div>
 
           </div>
+        </div>
+        <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4'>
+          <div className='sm:text-right text-4xl font-bold'>
+            <p>Hi, I'm Paolo, nice to meet you. Please take a look around</p>
           </div>
-          <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4'>
-            <div className='sm:text-right text-4xl font-bold'>
-              <p>Hi, I'm Paolo, nice to meet you. Please take a look around</p>
-            </div>
-            <div>
-              <p>I've always been interested in coding, but never had the courage to change careers. However, with some support, I've taken a bootcamp to try and better myself. I'm always down to learn new things no matter how difficult it may seem.</p>
-              {/* <p>I've always had this curiosity about coding, you know? But I never quite had the guts to switch careers and dive into it headfirst. With some encouragement and a bit of a nudge, I decided to take the leap and enroll in a coding bootcamp. Learning new things has always excited me, no matter how tough they may seem. 
+          <div className='text-lg'>
+            <p>With a background as an automotive technician with a decade of experience in diagnostics, I've always had a hidden passion for coding, and after years of hesitation, I've taken a bold step by enrolling in a full-stack coding boot camp. Learning new things has always excited me, no matter how tough they may seem. My background in diagnostics has given me strong problem-solving skills and attention to detail, which I'm now combining with my coding knowledge to create innovative digital solutions.</p>
 
-I come from a background as an automotive technician, specializing in diagnosis. And now, I'm eager to bring the problem-solving and diagnostic skills I've honed in the world of cars into the realm of software development. So here I am, ready to embrace this journey and see where it takes me!</p> */}
-            </div>
+            
           </div>
         </div>
       </div>
-  
+    </div>
+
   )
 }
 
