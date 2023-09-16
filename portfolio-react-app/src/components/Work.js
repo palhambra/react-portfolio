@@ -24,9 +24,10 @@ const Work = () => {
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
               <span className='text-2xl font-bold text-white tracking-wider'>
-                Fitness Blog Site
+                Sluffin' Or Buffin'
 
               </span>
+              <p>Fitness tracker/blogging site</p>
               <div className='pt-8 text-center'>
                 <a href='https://github.com/palhambra/Sluffin-Or-Buffin' target='_blank' rel='noopener noreferrer'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
@@ -45,9 +46,10 @@ const Work = () => {
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
               <span className='text-2xl font-bold text-white tracking-wider'>
-                Instrument Buy/Sell
+                Moving Pictures
 
               </span>
+              <p>Instrument Buy/Sell/Trade</p>
               <div className='pt-8 text-center'>
                 <a href='https://github.com/palhambra/Moving-Pictures' target='blank' rel='noopener noreferrer'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
@@ -66,9 +68,10 @@ const Work = () => {
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
               <span className='text-2xl font-bold text-white tracking-wider'>
-                Food/Drink Generator
+                Impress Your Friends
 
               </span>
+              <p>Food/Drink recipe generator</p>
               <div className='pt-8 text-center'>
                 <a href='https://github.com/palhambra/impress-your-friends' target='_blank' rel='noopener noreferrer'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>

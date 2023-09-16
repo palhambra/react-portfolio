@@ -17,7 +17,8 @@ const About = () => {
             <p>Hi, I'm Paolo, nice to meet you. Please take a look around</p>
           </div>
           <div className='text-lg'>
-            <p>With a background as an automotive technician with a decade of experience in diagnostics, I've always had a hidden passion for coding, and after years of hesitation, I've taken a bold step by enrolling in a full-stack coding boot camp. Learning new things has always excited me, no matter how tough they may seem. My background in diagnostics has given me strong problem-solving skills and attention to detail, which I'm now combining with my coding knowledge to create innovative digital solutions.</p>
+            <p className='pb-3'>With a background as an automotive technician with a decade of experience in diagnostics, I've always had a hidden passion for coding, and after years of hesitation, I've taken a bold step by enrolling in a full-stack coding boot camp.</p> 
+            <p>Learning new things has always excited me, no matter how tough they may seem. My background in diagnostics has given me strong problem-solving skills and attention to detail, which I'm now combining with my coding knowledge to create innovative digital solutions.</p>
 
             
           </div>
