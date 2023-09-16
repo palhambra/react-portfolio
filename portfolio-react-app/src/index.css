@@ -27,8 +27,11 @@
     rgba(112, 157, 225, 0.8),
     hsla(242, 74%, 61%, 0.8)
   )!important;
-  /* transform: scale(1.5) */
+  
+  
 }
+
+
 
 input::placeholder {
   color:black
