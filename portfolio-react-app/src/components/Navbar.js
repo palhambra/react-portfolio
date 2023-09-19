@@ -14,13 +14,8 @@ const Navbar = () => {
     <div className='fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#26292B] text-gray-300'>
 
       {/* logo */}
-      <div className='pt-20'>
-        <img src={Logo} alt='logo' style={{
-      width: '250px',
-      '@media (min-width: 640px)': {
-        width: '100px',
-      },
-    }}/>
+      <div className='lg:pt-20'>
+        <img src={Logo} alt='logo' className='w-20 md:w-64 lg:w-80'/>
         </div>
 
       {/* Menu */}
