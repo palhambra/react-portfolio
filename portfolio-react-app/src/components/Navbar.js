@@ -15,7 +15,12 @@ const Navbar = () => {
 
       {/* logo */}
       <div className='pt-20'>
-        <img src={Logo} alt='logo' style={{width: '250px'}}/>
+        <img src={Logo} alt='logo' style={{
+      width: '250px',
+      '@media (min-width: 640px)': {
+        width: '100px',
+      },
+    }}/>
         </div>
 
       {/* Menu */}
