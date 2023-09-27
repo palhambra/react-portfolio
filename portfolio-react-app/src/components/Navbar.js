@@ -4,7 +4,7 @@ import { HiOutlineMail } from 'react-icons/hi'
 import { BsFillPersonLinesFill } from 'react-icons/bs'
 import { Link } from 'react-scroll'
 import Logo from '../assets/Logo.png'
-import Resume from '../assets/resume.pdf'
+import Resume from '../assets/updated-resume.pdf'
 
 const Navbar = () => {
   const [nav, setNav] = useState(false)
