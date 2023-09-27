@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.b24cf34e.css",
-    "main.js": "/react-portfolio/static/js/main.fe4f990a.js",
+    "main.js": "/react-portfolio/static/js/main.e3e2de3b.js",
     "static/media/headshotv2.png": "/react-portfolio/static/media/headshotv2.3efe62e28d1f4bd40780.png",
     "static/media/Moving-Pictures.png": "/react-portfolio/static/media/Moving-Pictures.1875f1ef89937463f316.png",
     "static/media/Sluffin-or-Buffin.png": "/react-portfolio/static/media/Sluffin-or-Buffin.597528e1d51a46fc759e.png",
     "static/media/Impress-Your-Friends.png": "/react-portfolio/static/media/Impress-Your-Friends.6620a4abbf610d8016f6.png",
     "static/media/Baby-Got-Backend.png": "/react-portfolio/static/media/Baby-Got-Backend.25dd6a7e158717d310dd.png",
     "static/media/Socially-Awkward-Networking.png": "/react-portfolio/static/media/Socially-Awkward-Networking.58f5526b8425de6cf5a9.png",
-    "static/media/resume.pdf": "/react-portfolio/static/media/resume.8b82fbc70ae90f5bc9e5.pdf",
+    "static/media/updated-resume.pdf": "/react-portfolio/static/media/updated-resume.0e26fc3e67299c0400c4.pdf",
     "static/media/react.png": "/react-portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/node.png": "/react-portfolio/static/media/node.952a9ea986dcfa5229ad.png",
     "static/media/Logo.png": "/react-portfolio/static/media/Logo.51336583feaa04d0e014.png",
@@ -21,10 +21,10 @@
     "static/media/javascript.png": "/react-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/react-portfolio/index.html",
     "main.b24cf34e.css.map": "/react-portfolio/static/css/main.b24cf34e.css.map",
-    "main.fe4f990a.js.map": "/react-portfolio/static/js/main.fe4f990a.js.map"
+    "main.e3e2de3b.js.map": "/react-portfolio/static/js/main.e3e2de3b.js.map"
   },
   "entrypoints": [
     "static/css/main.b24cf34e.css",
-    "static/js/main.fe4f990a.js"
+    "static/js/main.e3e2de3b.js"
   ]
 }
